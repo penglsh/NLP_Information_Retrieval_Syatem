@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="lib" path="E:/java/eclipsesource/Information_retrieval_system/lucene-core-8.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/java/eclipsesource/Information_retrieval_system/lucene-analyzers-smartcn-8.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/java/eclipsesource/Information_retrieval_system/lucene-queryparser-8.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/java/eclipsesource/Information_retrieval_system/lucene-suggest-8.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Google/lucene-8.0.0/analysis/smartcn/lucene-analyzers-smartcn-8.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Google/lucene-8.0.0/analysis/common/lucene-analyzers-common-8.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Google/lucene-8.0.0/analysis/icu/lucene-analyzers-icu-8.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Google/lucene-8.0.0/analysis/kuromoji/lucene-analyzers-kuromoji-8.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Google/lucene-8.0.0/analysis/morfologik/lucene-analyzers-morfologik-8.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Google/lucene-8.0.0/analysis/nori/lucene-analyzers-nori-8.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Google/lucene-8.0.0/analysis/opennlp/lucene-analyzers-opennlp-8.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Google/lucene-8.0.0/analysis/phonetic/lucene-analyzers-phonetic-8.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Google/lucene-8.0.0/analysis/stempel/lucene-analyzers-stempel-8.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
